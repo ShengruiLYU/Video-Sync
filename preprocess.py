@@ -1,3 +1,4 @@
+
 import pandas as pd
 import glob, os
 import datetime
@@ -61,3 +62,4 @@ plt.ylabel('Z acceleratation')
 plt.show()
 
 results.to_csv('C:/Users/Shengrui/Desktop/video-sync/combineedTrail1-burak.csv')
+

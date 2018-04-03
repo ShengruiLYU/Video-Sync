@@ -1,3 +1,4 @@
+
 import gzip
 import glob, os
 
@@ -19,4 +20,3 @@ for counter, file in enumerate(glob.glob(path+"*/*.gz")):
         inF.close()
         outF.close()
 
-    
