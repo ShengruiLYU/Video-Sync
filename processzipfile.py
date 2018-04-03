@@ -3,7 +3,7 @@ import gzip
 import glob, os
 
 
-path = "C:/Users/Shengrui/Downloads/Trial1/Wearable_Data/files/raw/"
+path = "C:/Users/Shengrui/Downloads/Trial2/files/raw"
 
 
 
